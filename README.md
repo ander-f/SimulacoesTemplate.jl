@@ -51,7 +51,7 @@ O pacote com todas suas características foi gerado na seguinte aula:
 ## Instale com:
 
 ```julia
-] add https://github.com/ander-f/SimulacoesTemplate.jl
+] add https://github.com/ander-/SimulacoesTemplate.jl
 ```
 
 ## Uso elementar:
